@@ -1,0 +1,43 @@
+#foto{
+    width: 200px;
+   
+    padding: 10px;
+    background-color:#324376;
+  }
+
+  h1{
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+.descricao{
+    font-family: sans-serif;
+
+  }
+
+  body{
+    background-color: #B7B6C2;
+  }
+
+  .resido{
+    color: #324376;
+  }
+
+  .enfase{
+    color: #324376;
+  }
+
+  #habilidades li:nth-child(odd){
+    font-family: monospace;
+  }
+
+  .meuNome{
+    text-align: center;
+  }
+
+  #sobre{
+    padding: 10px;
+  }
+
+  #ref-foto{
+    padding: 10px;
+  }
